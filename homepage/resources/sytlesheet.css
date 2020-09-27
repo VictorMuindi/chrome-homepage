@@ -1,0 +1,13 @@
+div.container {
+    /* position: fixed; */
+    margin: auto;
+    width: 50%;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:link {
+    color: #ffffff;
+}
